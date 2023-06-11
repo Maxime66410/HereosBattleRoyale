@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27c75c13950345b478c10604f7be8688, type: 3}
+  m_Name: Weapon04
+  m_EditorClassIdentifier: 
+  iconTexture: {fileID: 2800000, guid: eb04b796ce4d4ca4d81ce2b870bb1a79, type: 3}
+  previewTexture: {fileID: 0}
+  title: Magnum
+  description: Receives new Weapon.
+  price:
+    id: GOLD
+    amount: 1200
+  canBuyOnlyOnce: 1
+  currencies: []
+  items:
+  - {fileID: 11400000, guid: b901613015812cc4eaab592a0254643a, type: 2}

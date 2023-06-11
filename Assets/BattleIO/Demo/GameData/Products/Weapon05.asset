@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27c75c13950345b478c10604f7be8688, type: 3}
+  m_Name: Weapon05
+  m_EditorClassIdentifier: 
+  iconTexture: {fileID: 2800000, guid: 0282dc384c1eeec43b455ace98d5682f, type: 3}
+  previewTexture: {fileID: 0}
+  title: Shotgun
+  description: Receives new Weapon.
+  price:
+    id: GOLD
+    amount: 3200
+  canBuyOnlyOnce: 1
+  currencies: []
+  items:
+  - {fileID: 11400000, guid: e137ff31f5e3c614383c213ef2b4881c, type: 2}

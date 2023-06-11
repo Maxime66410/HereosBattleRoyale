@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27c75c13950345b478c10604f7be8688, type: 3}
+  m_Name: Head04
+  m_EditorClassIdentifier: 
+  iconTexture: {fileID: 2800000, guid: 5ccacff3bd560c149b0edec420918e5e, type: 3}
+  previewTexture: {fileID: 0}
+  title: Tramp V2
+  description: BLBLBLBL.
+  price:
+    id: GOLD
+    amount: 100
+  canBuyOnlyOnce: 1
+  currencies: []
+  items:
+  - {fileID: 11400000, guid: 1a1a88a94e4c6ae4e9c81835e047ef6b, type: 2}

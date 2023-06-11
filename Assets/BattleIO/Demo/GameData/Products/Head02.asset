@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27c75c13950345b478c10604f7be8688, type: 3}
+  m_Name: Head02
+  m_EditorClassIdentifier: 
+  iconTexture: {fileID: 2800000, guid: 477b0f384ab3f474ca736b81675a60d4, type: 3}
+  previewTexture: {fileID: 0}
+  title: Tramp
+  description: Oh no its a Tramp !
+  price:
+    id: GOLD
+    amount: 100
+  canBuyOnlyOnce: 1
+  currencies: []
+  items:
+  - {fileID: 11400000, guid: b532c6017da2f964b88602dffc795aba, type: 2}
